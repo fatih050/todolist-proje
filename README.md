@@ -15,4 +15,4 @@ JavaScript ve DOM manipülasyonu kullanılarak geliştirilmiş sade ve dinamik g
 
 ## 🚀 Uygulamayı İnceleyin
 
-* **[Todolist](https://fatih050.github.io/todolist-proje/)**
+* [Todolist](https://fatih050.github.io/todolist-proje/)
