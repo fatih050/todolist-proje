@@ -17,5 +17,6 @@ JavaScript ve DOM manipülasyonu kullanılarak geliştirilmiş sade ve dinamik g
 
 * [Todolist](https://fatih050.github.io/todolist-proje/)
 
+## 🖼️ Arayüz Önizlemesi
 
 ![Uygulama Ekran Görüntüsü](ekran_resmi.png)
