@@ -13,6 +13,6 @@ JavaScript ve DOM manipülasyonu kullanılarak geliştirilmiş sade ve dinamik g
 * **Dinamik Görev Ekleme:** Kullanıcı girdisine göre anlık olarak listeye yeni görev ekler
 * **Görev Silme:** İstediğiniz görevi tek butonla silme
 
-## 🚀 Uygulamayı İnceleyin
+## 🚀 Uygulamaya Git
 
 * [Todolist](https://fatih050.github.io/todolist-proje/)
