@@ -1,0 +1,25 @@
+.card {
+    margin-top: 20px;
+    padding-bottom: 50px;
+    margin-left: 490px;
+    margin-right: 390px;
+    width: 600px;
+    height: 600px;
+    padding-left: 160px;
+    padding-top: 50px;
+    border-radius: 90px;
+}
+.buton {
+    display: flex;
+    padding-left: 6px;
+    padding-top: 70px;
+    width: 100px;
+    padding-top: 40px;
+    display: flex;
+    
+
+}
+.card-title {
+    padding-bottom: 50px;
+    padding-left: 45px;
+}
