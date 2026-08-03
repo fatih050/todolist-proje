@@ -5,7 +5,7 @@ JavaScript ve DOM manipülasyonu kullanılarak geliştirilmiş sade ve dinamik g
 ## 🛠️ Kullanılan Teknolojiler
 
 * **HTML5:** Şematik web yapısı
-* **CSS3:** Arayüz tasarımı ve şekillendirme
+* **Bootstrap:** Arayüz tasarımı ve şekillendirme
 * **JavaScript:** Dinamik DOM yönetimi ve liste yapısı
 
 ## ✨ Öne Çıkan Özellikler
