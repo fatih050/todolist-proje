@@ -4,7 +4,7 @@ JavaScript ve DOM manipülasyonu kullanılarak geliştirilmiş sade ve dinamik g
 
 ## 🛠️ Kullanılan Teknolojiler
 
-* **HTML5:** Sematik web yapısı
+* **HTML5:** Semantik web yapısı
 * **CSS3:** Stil ve arayüz özelleştirmeleri
 * **Bootstrap:** Hızlı ve modern UI bileşenleri
 * **JavaScript:** Dinamik DOM yönetimi ve liste yapısı
