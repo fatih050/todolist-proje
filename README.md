@@ -1,4 +1,4 @@
-## Todolist - Görev Yönetim Uygulaması
+## 📋 Todolist - Görev Yönetim Uygulaması
 
 JavaScript ve DOM manipülasyonu kullanılarak geliştirilmiş sade ve dinamik görev yönetim uygulaması
 
